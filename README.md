@@ -1,5 +1,7 @@
 # OC-Quest
 ![OcQuest](./g1050.png)
+---
+
 OC-Quest is an October challenge focused on the development of an entire story in 31 days.
 
 # License
