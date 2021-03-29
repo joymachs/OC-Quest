@@ -3,8 +3,11 @@
 ### Descrição
 October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com) que consiste em desenvolver uma história completa para um personagem original utilizando 31 itens de uma lista pré-definida.
 
-### A lista
-Todo dia 1º de Setembro, uma lista contendo 31 itens é disponibilizada. Para desenvolver a história, o desafiante deve apresentar em forma de ilustração o item equivalente ao dia do mês e contar um pouco sobre o mesmo em forma de texto.
+### Objetivo
+O OC Quest foi desenvolvido com
+
+### Como funciona
+Todo dia 1º de Setembro, uma lista contendo 31 itens é disponibilizada. Apesar dos itens escolhidos parecerem aleatórios, eles são cuidadosamente pensados para que se encaixem de forma linear em uma história. Para desenvolver a história, o desafiante deve apresentar em forma de ilustração o item equivalente ao dia do mês e contar um pouco sobre o mesmo em forma de texto.
 
 Ex.:
 Dia 1 - Personagem:
