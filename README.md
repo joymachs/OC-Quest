@@ -36,6 +36,8 @@ Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavr
 
 Ao chegar o dia primeiro de Outubro, *o desafio finalmente começa*. Porém, diferente do Inktober, a questão aqui não é criar uma ilustração por dia e sim **compartilhar** uma ilustração por dia. Tanto os segmentos da história quanto os desenhos que serão publicados com eles podem e devem ser produzidos durante o mês de Setembro. Isso fará com que o participante tenha cerca de 2 meses para finalizar todas as etapas do evento.
 
+## Divulgando seu desafio
+
 Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram, mas o participante pode compartilhar na rede social de sua preferência. Não há obrigações quando a isso. As únicas regras que devem ser seguidas são:
 
 - Criar uma publicação por dia, seguindo a ordem cronológica da lista.
@@ -44,6 +46,8 @@ Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram,
 - Utilizar as hashtags #OCQUEST e #DISTURBIOGRAFIA.
 
 Desse modo podemos apresentar um pouco da história por dia, criando a sensação de episódios e convidando outras pessoas a acompanharem essa jornada durante todo o mês de Outubro.
+
+Para mais exemplos de histórias criadas durante o evento, você pode buscar pelas mesmas hashtags nas redes sociais ou acessar meu perfil no [Instagram](https://instagram.com/disturbiografia).
 
 ## Licença
 [October Quest](https://github.com/joymachs/oc-quest "October Quest") © 2019 por [Joy Machs](https://artstation.com/joymachs "portfolio") está sob a licença [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
