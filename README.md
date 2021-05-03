@@ -10,17 +10,23 @@ No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponibli
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
 
 Ex.: Dia 15 - Barreira:
->*O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, quanto pode usar a ideia para limitar o progresso do personagem >através de um medo, um imprevisto ou conduta.*
+>*O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, quanto pode usar a ideia para limitar o progresso do personagem através de um medo, um imprevisto ou conduta.*
 
 
 Assim que o participante decide o que vai contar a partir de uma palavra-chave, é necessário dar uma pequena descrição do que está acontecendo, seja através de uma frase curta ou um pequeno parágrafo. Escrever é ***extremamente importante***, pois é através do texto que outras pessoas irão entender como o participante realiza as conexões entre cada item da lista.
 
-*Recomendado: não façam nenhuma ilustração da história enquanto ela está em desenvolvimento. As chances de surgir novas ideias no meio do processo são grandes e você pode acabar desenhando certas cenas em vão.*
+    Recomendado: não façam nenhuma ilustração da história
+    enquanto ela está em desenvolvimento. As chances de surgir 
+    novas ideias no meio do processo são grandes e você pode
+    acabar desenhando certas cenas em vão.    
 
 
 Tendo sua totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
 
-*Recomendado: Procurem fazer ilustrações que sejam simples e que estejam dentro de sua zona de conforto produtivo, pra que a tarefa de ilustrar 31 itens não se torne uma atividade massante.*
+    Recomendado: Procurem fazer ilustrações que sejam simples
+    e que estejam dentro de sua zona de conforto produtivo,
+    pra que a tarefa de ilustrar 31 itens não se torne uma
+    atividade massante.    
 
 
 Ao chegar o dia primeiro de Outubro, *o desafio finalmente começa*. Porém, diferente do Inktober, a questão aqui não é criar uma ilustração por dia e sim **compartilhar** uma ilustração por dia. Tanto os segmentos da história quanto os desenhos que serão publicados com eles podem e devem ser produzidos durante o mês de Setembro. Isso fará com que o participante tenha cerca de 2 meses para finalizar todas as etapas do evento.
