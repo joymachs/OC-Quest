@@ -13,14 +13,14 @@ No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponibli
 
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
 
-Ex.: Dia 15 - Barreira:
+***Ex.: Dia 15 - Barreira***
 >O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, etc...
 
-*"Após dias de caminhada pelas rota dos mercadores, o cavaleiro se deparou com a ponte da qual comentaram na taverna. Ela não era só antiga, como também estava destruída."*
+    Após dias de caminhada pelas rota dos mercadores, o cavaleiro se deparou com a ponte da qual comentaram na taverna. Ela não era só antiga, como também estava destruída.
 
 >... Quanto pode usar a ideia para limitar o progresso do personagem através de um medo, um imprevisto ou conduta.
 
-*"Ao analisar os dados no computador, o ciborgue descobriu que sua família havia sido feita de refém. Seu plano de invadir a central do crime foi invalidado. Agora ele precisava agir de forma cautelosa."*
+    Ao analisar os dados no computador, o ciborgue descobriu que sua família havia sido feita de refém. Seu plano de invadir a central do crime foi invalidado. Agora ele precisava agir de forma cautelosa.
 
 Assim que o participante decide o que vai contar a partir de uma palavra-chave, é necessário dar uma pequena descrição do que está acontecendo, seja através de uma frase curta ou um pequeno parágrafo. Escrever é ***extremamente importante***, pois é através do texto que outras pessoas irão entender como o participante realiza as conexões entre cada item da lista.
 
