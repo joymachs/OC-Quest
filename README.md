@@ -9,12 +9,16 @@ October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com
 
 No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponiblizada. Durante esse mês, o participante do evento precisa elaborar uma história completa de qualquer gênero literário utilizando as palavras-chaves contidas na lista. Podemos dizer que ela será dividida em 31 partes que serão compartilhadas a cada dia do mês de Outubro.
 
+---
+
 ![Obtendo a lista](recursos/02.png)
 
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
 
 Ex.: Dia 15 - Barreira:
 >*O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, quanto pode usar a ideia para limitar o progresso do personagem através de um medo, um imprevisto ou conduta.*
+
+---
 
 ![Obtendo a lista](recursos/03.png)
 
