@@ -25,7 +25,7 @@ Assim que o participante decide o que vai contar a partir de uma palavra-chave, 
     novas ideias no meio do processo são grandes e você pode
     acabar desenhando certas cenas em vão.    
 
-![Obtendo a lista](resourses/01.png)
+![Obtendo a lista](resourses/04.png)
 
 Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
 
