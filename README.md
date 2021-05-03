@@ -5,6 +5,7 @@ October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com
 
 
 ### Como funciona
+![Obtendo a lista] (/resourses/01.png)
 No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponiblizada. Durante esse mês, o participante do evento precisa elaborar uma história completa de qualquer gênero literário utilizando as palavras-chaves contidas na lista. Podemos dizer que ela será dividida em 31 partes que serão compartilhadas a cada dia do mês de Outubro.
 
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
@@ -21,7 +22,7 @@ Assim que o participante decide o que vai contar a partir de uma palavra-chave, 
     acabar desenhando certas cenas em vão.    
 
 
-Tendo sua totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
+Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
 
     Recomendado: Procurem fazer ilustrações que sejam simples
     e que estejam dentro de sua zona de conforto produtivo,
