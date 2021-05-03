@@ -40,12 +40,12 @@ Ao chegar o dia primeiro de Outubro, *o desafio finalmente começa*. Porém, dif
 
 Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram, mas o participante pode compartilhar na rede social de sua preferência. Não há obrigações quando a isso. As únicas regras que devem ser seguidas são:
 
-- Criar uma publicação por dia, seguindo a ordem cronológica da lista.
+- Criar uma publicação para cada dia de Outubro, seguindo a *ordem cronológica* da lista.
 - Publicar uma arte referente a palavra-chave do dia.
 - Compartilhar um pequeno trecho da sua história em forma de texto.
-- Utilizar as hashtags #OCQUEST e #DISTURBIOGRAFIA.
+- Utilizar as hashtags **#OCQUEST** e **#DISTURBIOGRAFIA**.
 
-Desse modo podemos apresentar um pouco da história por dia, criando a sensação de episódios e convidando outras pessoas a acompanharem essa jornada durante todo o mês de Outubro.
+Desse modo podemos apresentar um pouco da história por dia, criando a sensação de episódios e convidando outras pessoas a acompanharem essa jornada durante todo o mês.
 
 Para mais exemplos de histórias criadas durante o evento, você pode buscar pelas mesmas hashtags nas redes sociais ou acessar meu perfil no [Instagram](https://instagram.com/disturbiografia).
 
