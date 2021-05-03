@@ -9,22 +9,13 @@ October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com
 
 
 ### Como funciona
-![Obtendo a lista](recursos/01.png)
 
 No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponiblizada. Durante esse mês, o participante do evento precisa elaborar uma história completa de qualquer gênero literário utilizando as palavras-chaves contidas na lista. Podemos dizer que ela será dividida em 31 partes que serão compartilhadas a cada dia do mês de Outubro.
-
----
-
-![Obtendo a lista](recursos/02.png)
 
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
 
 Ex.: Dia 15 - Barreira:
 >*O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, quanto pode usar a ideia para limitar o progresso do personagem através de um medo, um imprevisto ou conduta.*
-
----
-
-![Obtendo a lista](recursos/03.png)
 
 Assim que o participante decide o que vai contar a partir de uma palavra-chave, é necessário dar uma pequena descrição do que está acontecendo, seja através de uma frase curta ou um pequeno parágrafo. Escrever é ***extremamente importante***, pois é através do texto que outras pessoas irão entender como o participante realiza as conexões entre cada item da lista.
 
@@ -32,8 +23,6 @@ Assim que o participante decide o que vai contar a partir de uma palavra-chave, 
     enquanto ela está em desenvolvimento. As chances de surgir 
     novas ideias no meio do processo são grandes e você pode
     acabar desenhando certas cenas em vão.    
-
-![Obtendo a lista](recursos/04.png)
 
 Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
 
@@ -44,8 +33,6 @@ Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavr
 
 Ao chegar o dia primeiro de Outubro, *o desafio finalmente começa*. Porém, diferente do Inktober, a questão aqui não é criar uma ilustração por dia e sim **compartilhar** uma ilustração por dia. Tanto os segmentos da história quanto os desenhos que serão publicados com eles podem e devem ser produzidos durante o mês de Setembro. Isso fará com que o participante tenha cerca de 2 meses para finalizar todas as etapas do evento.
 
-![Obtendo a lista](recursos/05.png)
-
 Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram, mas o participante pode compartilhar na rede social de sua preferência. Não há obrigações quando a isso. As únicas regras que devem ser seguidas são:
 
 - Criar uma publicação por dia, seguindo a ordem cronológica da lista.
@@ -54,7 +41,6 @@ Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram,
 - Utilizar as hashtags #OCQUEST e #DISTURBIOGRAFIA.
 
 Desse modo podemos apresentar um pouco da história por dia, criando a sensação de episódios e convidando outras pessoas a acompanharem essa jornada durante todo o mês de Outubro.
-
 
 ### Licença
 [October Quest](https://github.com/joymachs/oc-quest "October Quest") © 2019 por [Joy Machs](https://artstation.com/joymachs "portfolio") está sob a licença [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
