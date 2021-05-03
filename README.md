@@ -4,16 +4,16 @@
 ![stories](https://img.shields.io/badge/Hist%C3%B3rias%20contadas-16-red)
 ![discord](https://img.shields.io/discord/744006429144252496?color=blue&label=Servidor%20Discord)
 
-### Descrição
+## Descrição
 October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com), que consiste em desenvolver uma história completa para um personagem original utilizando 31 itens de uma lista pré-definida em ordem cronológica.
 
-### Como funciona
+## Como funciona
 
 No primeiro dia de Setembro, uma lista contendo 31 palavras-chaves é disponiblizada. Durante esse mês, o participante do evento precisa elaborar uma história completa de qualquer gênero literário utilizando as palavras-chaves contidas na lista. Podemos dizer que ela será dividida em 31 partes que serão compartilhadas a cada dia do mês de Outubro.
 
 Sabendo disso, o participante deverá utilizar a palavra-chave referente ao dia do mês de Outubro para desenvolver uma parte de sua história, seja de forma literal ou figurada.
 
-***Ex.: Dia 15 - Barreira***
+**Ex.: Dia 15 - Barreira**
 >O participante pode tanto ilustrar uma barreira como uma muralha, uma multidão, um abismo, etc...
 
     Após dias de caminhada pelas rota dos mercadores,
@@ -45,5 +45,5 @@ Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram,
 
 Desse modo podemos apresentar um pouco da história por dia, criando a sensação de episódios e convidando outras pessoas a acompanharem essa jornada durante todo o mês de Outubro.
 
-### Licença
+## Licença
 [October Quest](https://github.com/joymachs/oc-quest "October Quest") © 2019 por [Joy Machs](https://artstation.com/joymachs "portfolio") está sob a licença [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
