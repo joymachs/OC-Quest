@@ -1,4 +1,8 @@
 # Jornada de Outubro (OC Quest)
+![license](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC--SA%204.0.-green)
+![version](https://img.shields.io/badge/Vers%C3%A3o-3.0-yellow)
+![stories](https://img.shields.io/badge/Hist%C3%B3rias%20contadas-16-red)
+![discord](https://img.shields.io/discord/744006429144252496?color=blue&label=Servidor%20Discord)
 
 ### Descrição
 October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com), que consiste em desenvolver uma história completa para um personagem original utilizando 31 itens de uma lista pré-definida em ordem cronológica.
