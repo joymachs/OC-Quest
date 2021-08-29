@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 description: Um desafio artístico focado em desenvolver uma história completa em 31 dias. 
 logo: title.svg
-show_downloads: true
+show_downloads: false
