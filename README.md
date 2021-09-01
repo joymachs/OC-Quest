@@ -49,5 +49,11 @@ Desse modo podemos apresentar um pouco da história por dia, criando a sensaçã
 
 Para mais exemplos de histórias criadas durante o evento, você pode buscar pelas mesmas hashtags nas redes sociais ou acessar meu perfil no [Instagram](https://instagram.com/disturbiografia).
 
+## Lista OCTOBER QUEST 3 (2021)
+Abaixo você encontra a lista do October Quest do presente ano em dois idiomas: Português do Brasil e Inglês.
+
+![OCQUEST-BR](/OCQ3-br.png)
+![OCQUEST-EN](/OCQ3-EN.png)
+
 ## Licença
 [October Quest](https://github.com/joymachs/oc-quest "October Quest") © 2019 por [Joy Machs](https://artstation.com/joymachs "portfolio") está sob a licença [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
