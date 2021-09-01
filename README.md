@@ -1,11 +1,11 @@
-# Jornada de Outubro (OC Quest)
+# October Quest (Jornada de Outubro)
 ![license](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC--SA%204.0.-green)
 ![version](https://img.shields.io/badge/Vers%C3%A3o-3.0-yellow)
 ![stories](https://img.shields.io/badge/Hist%C3%B3rias%20contadas-16-red)
 ![discord](https://img.shields.io/discord/744006429144252496?color=blue&label=Servidor%20Discord)
 
 ## Descrição
-October Quest é um desafio derivado do conhecido [Inktober](http://inktober.com), que consiste em desenvolver uma história completa para um personagem original utilizando 31 itens de uma lista pré-definida em ordem cronológica.
+October Quest(OC QUEST) ou Jornada de Outubro é um desafio derivado do conhecido [Inktober](http://inktober.com), que consiste em desenvolver uma história completa para um personagem original utilizando 31 itens de uma lista pré-definida em ordem cronológica.
 
 ## Como funciona
 
@@ -32,13 +32,13 @@ Assim que o participante decide o que vai contar a partir de uma palavra-chave, 
 
 Tendo sua história totalmente concluída ou pelo menos a ideia para cada palavra-chave já definida, é hora de começar a pensar como você gostaria de transformar aquela descrição numa ilustração. Novamente o participante fica a vontade para escolher a forma que mais lhe agrade de fazer isso: meio digital ou tradicional, ilustrando os itens de forma literal ou figuradas, fazendo em cores ou em tons de cinza, vale tudo.
 
->Recomendado: Procurem fazer ilustrações que sejam simples e que estejam dentro de sua zona de conforto produtivo, pra que a tarefa de ilustrar 31 itens não se torne uma atividade massante.    
+>Recomendado: Procurem fazer ilustrações que sejam simples e que estejam dentro de sua zona de conforto produtiva, pra que a tarefa de ilustrar 31 itens não se torne uma atividade massante.    
 
 Ao chegar o dia primeiro de Outubro, *o desafio finalmente começa*. Porém, diferente do Inktober, a questão aqui não é criar uma ilustração por dia e sim **compartilhar** uma ilustração por dia. Tanto os segmentos da história quanto os desenhos que serão publicados com eles podem e devem ser produzidos durante o mês de Setembro. Isso fará com que o participante tenha cerca de 2 meses para finalizar todas as etapas do evento.
 
 ## Divulgando seu desafio
 
-Hora de compartilhar sua história. Originalmente o OCQ foi criado no Instagram, mas o participante pode compartilhar na rede social de sua preferência. Não há obrigações quando a isso. As únicas regras que devem ser seguidas são:
+Hora de compartilhar sua história. Originalmente o October Quest foi criado no Instagram, mas o participante pode compartilhar na rede social de sua preferência. Não há obrigações quando a isso. As únicas regras que devem ser seguidas são:
 
 - Criar uma publicação para cada dia de Outubro, seguindo a *ordem cronológica* da lista.
 - Publicar uma arte referente a palavra-chave do dia.
@@ -49,7 +49,7 @@ Desse modo podemos apresentar um pouco da história por dia, criando a sensaçã
 
 Para mais exemplos de histórias criadas durante o evento, você pode buscar pelas mesmas hashtags nas redes sociais ou acessar meu perfil no [Instagram](https://instagram.com/disturbiografia).
 
-## Lista OCTOBER QUEST 3 (2021)
+## Lista October Quest 3 (2021)
 Abaixo você encontra a lista do October Quest do presente ano em dois idiomas: Português do Brasil e Inglês.
 
 ![OCQUEST-BR](/OCQ3-br.png)
